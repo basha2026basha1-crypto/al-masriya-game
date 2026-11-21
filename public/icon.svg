@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <defs><linearGradient id="g" x2="0" y2="1"><stop stop-color="#136843"/><stop offset="1" stop-color="#052b1d"/></linearGradient></defs>
+  <rect x="2" y="2" width="188" height="188" rx="40" fill="url(#g)" stroke="#e7b859" stroke-width="8"/>
+  <rect x="36" y="27" width="120" height="140" rx="15" fill="#fdf2d3"/>
+  <text x="96" y="129" text-anchor="middle" font-size="85" fill="#ac1933">♥</text>
+  <text x="50" y="57" font-family="Georgia" font-size="25" font-weight="bold" fill="#ac1933">A</text>
+</svg>

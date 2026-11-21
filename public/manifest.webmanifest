@@ -1,0 +1,13 @@
+{
+ "name":"المصرية",
+ "short_name":"المصرية",
+ "description":"المصرية - لعبة ورق بغرف خاصة",
+ "start_url":"/",
+ "display":"standalone",
+ "orientation":"landscape",
+ "background_color":"#082d20",
+ "theme_color":"#082d20",
+ "lang":"ar",
+ "dir":"rtl",
+ "icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
